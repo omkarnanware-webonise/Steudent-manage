@@ -1,0 +1,23 @@
+.stud {
+  width: 700px;
+  height: auto;
+  background-color: cadetblue;
+  border: 1px solid black;
+  margin: 10px;
+  display: flex;
+  padding: auto;
+}
+
+.lab label {
+  margin-right: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+.search {
+  margin-right: 1000px;
+}
+
+.butLogout {
+  margin-left: 1000px;
+}
